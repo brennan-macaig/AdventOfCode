@@ -1,0 +1,11 @@
+Hi there!
+
+You've probably looked at Day4's code and seen that there is no input file, but I told you to check this file out anyways.
+
+This file is particularly useless for only this challenge. At the time of my writing this, it is the only challenge that I
+know of for Advent of Code where I can't use a file. Why can't I use a file, you ask? Easy! When I took the MD5 of abcdef
+stored in this file, the hashes were not quite right... It turns out it's because of the way I'm digesting these files.
+
+So I decided to just ignore the file in this case.
+
+Anyways, here's my puzzle input: iwrupvqb
