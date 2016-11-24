@@ -5,6 +5,7 @@ All the ways of doing these puzzles are my own with no research first. I'm not d
 
 Here's how long each day took me:
 
-*Day 1* - 15 minutes
-*Day 2* - 2 hours
-*Day 3* - 30 minutes
+- **Day 1** - 15 minutes
+- **Day 2** - 2 hours
+- **Day 3** - 30 minutes for one star... second star not yet complete.
+- **Day 4** - 10 minutes for writing code for both stars - however my program run time was 1 minute and 5+ minutes for each star respectively.
