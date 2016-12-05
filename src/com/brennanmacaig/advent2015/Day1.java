@@ -1,4 +1,4 @@
-package com.brennanmacaig.advent;
+package com.brennanmacaig.advent2015;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -15,7 +15,7 @@ public class Day1 {
 	public static int i = 0;
 	public static int position = 1;
 	public static void main(String[] args) throws FileNotFoundException {
-		String puzzleInput = new Scanner(new File("inputs/day1")).useDelimiter("\\Z").next();
+		String puzzleInput = new Scanner(new File("inputs/2015/day1")).useDelimiter("\\Z").next();
 		String[] puzzleArray = puzzleInput.split("");
 		
 		for(String s : puzzleArray) {

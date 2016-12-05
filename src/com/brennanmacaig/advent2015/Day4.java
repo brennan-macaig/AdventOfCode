@@ -1,4 +1,4 @@
-package com.brennanmacaig.advent;
+package com.brennanmacaig.advent2015;
 
 import java.io.FileNotFoundException;
 import java.math.BigInteger;

@@ -1,4 +1,4 @@
-package com.brennanmacaig.advent;
+package com.brennanmacaig.advent2015;
 
 import java.io.File;
 import java.io.IOException;
@@ -12,7 +12,7 @@ import java.util.Scanner;
  */
 public class Day3 {
 	public static void main(String[] args) throws IOException {
-		String puzzleInput = new Scanner(new File("inputs/day3")).useDelimiter("\\Z").next();
+		String puzzleInput = new Scanner(new File("inputs/2016/day3")).useDelimiter("\\Z").next();
 		String[] puzzleArray = puzzleInput.split("");
 		int xCounter = 0;
 		int yCounter = 0;
