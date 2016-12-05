@@ -27,8 +27,6 @@ public class Day4 {
 			while (hashtext.length() < 32) {
 				hashtext = "0"+hashtext;
 			}
-			System.out.println("Current counter: " + counter);
-			System.out.println("Current MD5: " + hashtext);
 			// For part two, just add a zero to the value there.
 			// I've left it at part 1's value for now.
 			if(hashtext.startsWith("00000")) {
