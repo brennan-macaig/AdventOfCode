@@ -36,9 +36,7 @@ public class Day2 {
 			}
 			counter++;
 		}
-		/* Shout out to Phanta on the FRC-Discord server for helping me with this.
-		 * I don't know how this works, and I don't want to. It just does.
-		 */
+		
 		int[][] nums = Arrays.stream(arrayOfStringArrays).map(row -> Arrays.stream(row).mapToInt(num -> Integer.parseInt(num)).toArray()).toArray(int[][]::new);
 		
 		// Lets do some math, shall we?
